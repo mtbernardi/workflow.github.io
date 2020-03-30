@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to CABANA Workshop Workflow
 
-You can use the [editor on GitHub](https://github.com/mtbernardi/workflow.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The aim of this content is to create a visual and practical guidance to set and deliver a workshop. This guidance is focused on the organizational aspect of running a workshop, but as you may know, It will set the time flow preparation for the theoretical content as well.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### WORKFLOW
 
-### Markdown
+This a simple presentation for the editable PDF
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![CABANA](https://github.com/mtbernardi/workflow.github.io/blob/master/pic.png?raw=true)](https://github.com/mtbernardi/workflow.github.io/blob/master/CABANA-Workflow%20(2).pdf)]
+
+
+
 
 ```markdown
 Syntax highlighted code block
